@@ -1,6 +1,6 @@
 ### Hello there! I'm Okato Nekomato.
 
-I'm a dev who enjoys taking it easy, but I'm currently locked into two big projects: my first-ever management sim game and a new messenger app.
+I'm a dev who enjoys taking it easy, but I'm currently locked into two projects: my first-ever management sim game and a new messenger app.
 
 ---
 
@@ -14,9 +14,9 @@ I'm a dev who enjoys taking it easy, but I'm currently locked into two big proje
 
 ### Let's Connect:
 
-* **Discord:** okatonekomato
-* **Telegram:** okatonekomato
-* * **Email:** okatonekomato@gmail.com
+* **Discord:** `okatonekomato`
+* **Telegram:** `okatonekomato`
+* **Email:** `okatonekomato@gmail.com`
 
 
 I'm a native Russian speaker with an intermediate level of English.
