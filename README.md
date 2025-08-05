@@ -14,8 +14,9 @@ I'm a dev who enjoys taking it easy, but I'm currently locked into two big proje
 
 ### Let's Connect:
 
-* **GitHub:** [Your GitHub Profile]
-* **LinkedIn:** [Your LinkedIn Profile]
-* **Telegram:** [Your Telegram Username]
+* **Discord:** okatonekomato
+* **Telegram:** okatonekomato
+* * **Email:** okatonekomato@gmail.com
+
 
 I'm a native Russian speaker with an intermediate level of English.
