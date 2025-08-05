@@ -1,6 +1,6 @@
 ### Hello there! I'm Okato Nekomato.
 
-I'm a dev who enjoys taking it easy, but I'm currently locked into two projects: my first-ever management sim game and a new messenger app.
+I'm a dev who enjoys taking it easy, but I'm currently locked into two projects: my first-ever management sim game and a new messenger app. Also making some personal mods for my beloved games.
 
 ---
 
