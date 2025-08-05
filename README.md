@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hello there! I'm Okato Nekomato.
 
-<!--
-**OkatoNekomato/OkatoNekomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dev who enjoys taking it easy, but I'm currently locked into two big projects: my first-ever management sim game and a new messenger app.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack:
+
+* **C#:** My main tool (mid-level)
+* **C++:** Getting the hang of it (basic)
+* **Dart:** Just starting out (basic)
+
+---
+
+### Let's Connect:
+
+* **GitHub:** [Your GitHub Profile]
+* **LinkedIn:** [Your LinkedIn Profile]
+* **Telegram:** [Your Telegram Username]
+
+I'm a native Russian speaker with an intermediate level of English.
